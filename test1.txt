@@ -6,3 +6,4 @@ test
 수정 add/commit두번
 한번에 push
 두번째시도
+add와 commit을 하나의 명령어로 처리
